@@ -3,3 +3,13 @@ Dockerfile
 .dockerignore
 
 docker-compose.yml
+
+data
+
+# node_modules
+
+# .git
+
+# .gitignore
+
+# README.md
